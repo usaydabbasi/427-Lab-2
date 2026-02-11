@@ -5,7 +5,7 @@ This repository contains files for GGR472 Lab 2, which demonstrates how GeoJSON 
 The webpage displays public libraries and parks across Mississauga, Ontario.
 
 ## Webpage
-
+https://usaydabbasi.github.io/427-Lab-2/
 
 ## Key Repository Contents
 
