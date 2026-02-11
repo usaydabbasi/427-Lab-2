@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* Changes colour of header */
+header {
+  background-color: #cfe8ff;
+  text-align: center;
+  padding: 12px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header p {
+  margin: 4px 0 0 0;
+}
+
+/* Extend map to fill entire screen */
+#map {
+  width: 100%;
+  height: calc(100% - 72px);
+}
+
